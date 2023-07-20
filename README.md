@@ -27,3 +27,24 @@ optimize strategies.
 concise Instagram post.
 • Customizable Content Templates with AI-generated suggestions, allowing content creators to adapt and personalize the suggested content to align with their brand and style. 
 They can also publish their templates for other creators
+
+
+### How different is it from any other existing ideas out there?
+• Combines version control capabilities with AI-powered content generation and editing by a simple voice command (uses NLP) – no existing solutions.
+• Enables direct publishing to social platforms by automating workflows of content, captions, ads hashtags and schedule posts to create engaging content
+efficiently. Existing ones still rely on AI solutions for content creation and manual ways of social sharing.
+• Collaborate with fellow contributors to make versions even after the content has been released (unlike YT, Instagram where creators create collaborate first
+and then create)
+• Comprehensive solution for managing content across multiple platforms + leveraging AI to boost creativity and reach wider audience.
+
+### How will it be able to solve the problem?
+• Many social media platforms – too much content to handle – We provide one stop platform to create ,filter and manage content panning various social media
+platforms.
+• No unified avenue for creators’ collaboration – Discover, chat and enhance content with fellow creators to work on creative variations of the content. Maintain
+versions flexible to revert to an older needed.
+• Language Barriers limit reach : AI-translation of content to a language of choice (text, audio, captions ) to accessible to wider audience.
+• Customize content to various socials (Twitter , YouTube,etc.) : Create once and convert videos to twitter threads and images for Instagram with captions or
+vice-versa to reduce time invested in converting to various format for multiple platforms
+• The need to track the performance of content, reach and optimize strategies
+• Its difficult to keep up all latest trends as a creator – We empower creators and artists to follow trends with web-scraped daily news/ suggestions allowing time
+for strategies
